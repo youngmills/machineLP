@@ -16,7 +16,7 @@ This basically is the matrix derivaties in the working out of the least square c
 
 Cost function refers to the equation involving the least sum of the square of residuals of the fit line
 
-On normal function the equation [((X^T*X)*X^T))*Y] Provides the Y-intercept and The Slope of The Least Square Cost Function
+On normal Equation method,  the equation [((X^T*X)*X^T))*Y] Provides the Y-intercept and The Slope of The Least Square Cost Function
 
 Remember as demonstated by the code below
 
