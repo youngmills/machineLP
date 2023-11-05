@@ -38,6 +38,16 @@ To find the MLE estimates for the parameters (m), we maximize the likelihood fun
 It is often more convenient to work with the log-likelihood function, which is the natural logarithm of the likelihood function:
 ​
 ​In the case of linear regression, this optimization problem can often be solved analytically using matrix calculus, leading to the well-known closed-form solution for the regression coefficients
+
+LOCALLY WEIGHTED REGRESSION
+*******************************
+
+Its the fitting of a curve to a dataset unlike the linear regression.
+
+It uses the concept of Weighted Least Squares to fit in the curve
+
+
+The file are in python format.I used pycharm IDE to run and test the codes.....any IDE can be used and execute to see the results and analysis of the work.
    
 This method still can apply normal equation method thus providing the maximum likelihood estimates
 
